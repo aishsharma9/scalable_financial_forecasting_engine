@@ -76,6 +76,14 @@ The system generates:
 
 ---
 
+## Dashboard Preview
+
+This interactive dashboard allows users to explore financial trends, forecasts, and model performance.
+
+![Dashboard](dashboard.png)
+
+---
+
 ## Author
 
 Aishwarya Sharma  
