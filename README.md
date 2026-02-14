@@ -24,6 +24,10 @@ This architecture is designed to support scalable analytics, automation, and dat
 
 Data Generation → Data Storage → Forecasting Engine → Forecast Output
 
+## Architecture Diagram
+
+![Architecture](architecture.png)
+
 ---
 
 ## Tech Stack
